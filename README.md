@@ -1,2 +1,2 @@
 # TV-Shows-Scraper
-This Python script scrapes the top 100 TV shows list from Empire Online's website and saves the titles to a TXT file.
+This Python script scrapes the top 100 TV shows list from a website and saves the titles to a TXT file.
